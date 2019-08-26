@@ -4,11 +4,12 @@ I have created this blog to document my journey towards becoming a profesionnal 
 
 The 25th August is my birthday but it is also the day I began to code, here in the year 2019, at the age of 34. 
 
-### Markdown
+Codecademy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To begin I signed up to codecademy and began to work through the series of courses to develop my unserstanding of code.
 
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
