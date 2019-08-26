@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+My journey to becoming a software developer
 
-You can use the [editor on GitHub](https://github.com/jimmyb2508/jamesbarrington.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have created this blog to document my journey towards becoming a profesionnal software developer. The 25th August is my birthday but it is also the day I began to code, here in the year 2019, at the age of 34. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
