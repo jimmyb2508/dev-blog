@@ -6,7 +6,7 @@ The 25th August is my birthday but it is also the day I began to code, here in t
 
 ### Codecademy
 
-To begin I signed up to codecademy and began to work through the series of courses to develop my unserstanding of code.
+To begin, I signed up to codecademy and began to work through the series of courses to develop my unserstanding of code.
 
 ```markdown
 
