@@ -12,6 +12,6 @@ To begin, I signed up to codecademy and began to work through the series of cour
 
 Next I got in touch with coding Bootcamp providers 'Manchester Codes' to get some command line training. 
 
-### Support or Contact
+### Code Up
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Then I attended regular classes at Code Up meetings, mainly in Stockport, Cheshire.
