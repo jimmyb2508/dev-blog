@@ -1,6 +1,6 @@
 My journey to becoming a software developer
 
-I have created this blog to document my journey towards becoming a profesionnal software developer. 
+I have created a blog to document my journey towards becoming a profesionnal software developer. You can view this by visiting www.jamesbarringtonsoftware.com
 
 The 25th August is my birthday but it is also the day I began to code, here in the year 2019, at the age of 34. 
 
